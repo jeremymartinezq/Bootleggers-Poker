@@ -1,8 +1,14 @@
 # Bootlegger's Poker Parlor
 
-A stylish, browser-based poker game with a 1920s speakeasy theme, featuring realistic gameplay and immersive prohibition-era aesthetics.
+Dive back into time to the 1920's speakeasy poker rooms and gamble your fortunes at our Bootlegger's Poker Parker. Play with underworld osses like Bugsy Siegel, Lucky Luciano, Al Capone, and many more made men! Bootlegger's Poker Parlor, is a stylish browser-based poker game with a 1920s speakeasy theme, featuring realistic gameplay and immersive prohibition-era aesthetics.
 
-![Bootlegger's Poker Parlor](https://i.imgur.com/placeholder.jpg)
+## Design
+![Screenshot 2025-04-02 134153](https://github.com/user-attachments/assets/5830b354-f933-45d6-a8bb-c8b1bf2632b0)
+![Screenshot 2025-04-02 135738](https://github.com/user-attachments/assets/a5c4e5c1-e314-4d4c-9bd4-2263c6efbd8d)
+![Screenshot 2025-04-02 135748](https://github.com/user-attachments/assets/5879b9f6-3cf6-4e51-80f2-091faca658fd)
+![Screenshot 2025-04-02 135416](https://github.com/user-attachments/assets/a8107459-8ed4-4b4b-876b-c20b37d446ed)
+
+
 
 ## Features
 
